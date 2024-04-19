@@ -13,7 +13,7 @@ public class Conversion {
 		arr_list=Arrays.asList(arr);
 			
 		// Initializing set
-		Set<Integer> arr_set = new HashSet<>();
+		Set<Integer> arr_set = new LinkedHashSet<>();
 		
 		// Adding values to set
 		for(Integer x :arr) {
