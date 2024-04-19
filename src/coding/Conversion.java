@@ -21,7 +21,7 @@ public class Conversion {
 		}
 		
 		//Initializing map
-		Map<Integer,String> map = new LinkedHashMap<>();
+		Map<Integer,String> map = new HashMap<>();
 		map.put(1, "Sid");
 		
 		System.out.println(Arrays.toString(arr));
