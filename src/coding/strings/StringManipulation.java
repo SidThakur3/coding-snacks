@@ -1,4 +1,4 @@
-package coding;
+package coding.strings;
 
 import java.util.Arrays;
 

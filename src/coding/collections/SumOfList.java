@@ -1,4 +1,4 @@
-package coding;
+package coding.collections;
 
 import java.util.*;
 
